@@ -3,7 +3,6 @@ Decentralized Peer to Peer Universal currency as a payment method for miners, de
 https://www.tubopay.com
 
 ##DEVELOPMENT MODE##
-http://digitalagencyrankings.com/iconogen/icons/4877204/apple-touch-icon-180x180.png
 <!--
 **TuboPay/TuboPay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
