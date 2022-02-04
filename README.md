@@ -1,6 +1,7 @@
 # TUBOPAY
 Decentralized Peer to Peer Universal currency as a payment method for miners, developers, manufacturers and distributors of the crypto world.
 
+##DEVELOPMENT MODE##
 <!--
 **TuboPay/TuboPay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
