@@ -1,4 +1,4 @@
-# TuboPay
+# TuboPay 2.0 new version ONLY POW
 Decentralized Peer to Peer Universal currency as a payment method for miners, developers, manufacturers and distributors of the crypto world.
 https://www.tubopay.com
 
