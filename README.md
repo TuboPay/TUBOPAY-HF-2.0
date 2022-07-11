@@ -3,6 +3,12 @@ Decentralized Peer to Peer Universal currency as a payment method for miners, de
 https://www.tubopay.com
 
 ##DEVELOPMENT MODE##
+NODES ACTIVES:
+addnode=3.86.218.132:5910
+addnode=44.200.8.74:5910
+addnode=143.137.87.84:5910
+addnode=198.37.120.36:5910
+addnode=176.57.189.38:5910
 <!--
 **TuboPay/TuboPay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
